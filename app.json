@@ -1,0 +1,8 @@
+{
+  "name": "unb (Node Unblocker)",
+  "description": "ub",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/gfw-breaker/heroku-node-proxy",
+  "keywords": ["node-noblocker", "gfw-breaker"],
+  "website": "https://github.com/gfw-breaker"
+}
